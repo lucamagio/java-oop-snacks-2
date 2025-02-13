@@ -8,5 +8,7 @@ public class Programma {
         System.out.println(ferrari.toString());
         System.out.println(bugatti.toString());
         System.out.println("Il numero totale delle auto è: " + Auto.getNumeroTotaleAuto());
+
+        System.out.println("EUR" + "USD");
     }
 }
